@@ -192,3 +192,35 @@ Understanding the different types of security audits helps organizations select 
 > 📌 Tip: A strong security posture often includes a combination of these audits at regular intervals.
 
    
+# 🛡️ Security Auditing & Penetration Testing
+
+To operate effectively as a penetration tester, it's critical to understand how **security audits** are conducted — including **when**, **how**, and **why** they are performed — and how they **complement** or **differ** from penetration testing.
+
+---
+
+## 🔍 Security Audit vs. Penetration Test
+
+| **Aspect**     | **Security Audit**                                                                 | **Penetration Test (Pentest)**                                                      |
+|----------------|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| **Purpose**    | Ensure compliance, assess overall security posture, and evaluate internal controls. | Identify and exploit real-world vulnerabilities to understand potential impacts.    |
+| **Scope**      | Broad: policies, processes, access control, configurations, documentation, etc.     | Narrow: targets specific systems or applications for exploitation.                  |
+| **Methodology**| Review-based: interviews, checklists, configuration reviews, and control validation.| Simulation-based: ethical hacking, threat modeling, vulnerability exploitation.     |
+| **Outcome**    | Compliance report, risk assessment, control evaluation, and improvement suggestions.| Proof-of-concept attacks, exploitation evidence, prioritized vulnerabilities.       |
+| **Frequency**  | Regular (quarterly, annually), or triggered by compliance requirements.              | As needed (e.g., after major changes), typically annually or bi-annually.           |
+
+---
+
+## 🤝 Relationship Between Audit and Pentest
+
+- **Complementary Activities**:  
+  A **security audit** provides a holistic view of the organization's posture, while a **pentest** demonstrates how attackers could exploit specific weaknesses.
+
+- **Audit First, Pentest Later**:  
+  Security audits often uncover **policy or control issues** that should be addressed before conducting a pentest.
+
+- **Both Are Crucial**:  
+  To build a resilient security framework, organizations should conduct both **audits** and **penetration tests** regularly.
+
+---
+
+> ✅ **Tip for Pentesters**: Understanding audit findings can help you better scope and target your penetration tests, and help communicate risks more effectively to stakeholders.
