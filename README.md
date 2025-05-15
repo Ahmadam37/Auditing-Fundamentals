@@ -110,6 +110,8 @@ This document outlines the phases involved in conducting a thorough security aud
 - **Monitor and Update**  
   Continuously track changes and revise audit scope or controls as needed.
 
+  ![Image](https://github.com/user-attachments/assets/5848f0c6-0806-4ade-aa15-25a6e2201a99)
+
 ---
 
 > 🔁 Repeat this lifecycle periodically to maintain a strong security posture.
