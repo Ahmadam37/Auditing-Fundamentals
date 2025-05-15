@@ -1,3 +1,100 @@
+# Auditing-Fundamentals Repository
+
+## Table of Contents
+
+1. [Overview](#overview)
+2. [Essential Terminology](#essential-terminology)
+3. [Audit Fundamentals](#audit-fundamentals)
+   - [Security Auditing Process / Lifecycle](#security-auditing-process--lifecycle)
+4. [Types of Security Audits](#types-of-security-audits)
+5. [Security Auditing & Penetration Testing](#security-auditing--penetration-testing)
+6. [Approaches](#approaches)
+   - [Sequential Approach](#sequential-approach)
+   - [Combined Approach](#combined-approach)
+7. [Example: SecurePayments Inc.](#example-securepayments-inc)
+   - [Audit Phase Findings & Recommendations](#audit-phase-findings--recommendations)
+   - [Pentest Phase Findings & Recommendations](#pentest-phase-findings--recommendations)
+8. [Practitioner Tips](#practitioner-tips)
+9. [Appendix](#appendix)
+   - [Templates](#templates)
+   - [Tools](#tools)
+   - [Standards Reference](#standards-reference)
+
+---
+
+## Overview
+
+Brief introduction to the Auditing-Fundamentals repository and its purpose.
+
+## Essential Terminology
+
+Key terms and definitions crucial for understanding security auditing and pentesting.
+
+## Audit Fundamentals
+
+High-level description of security audits and their goals.
+
+### Security Auditing Process / Lifecycle
+
+Detailed phases of the security audit lifecycle.
+
+## Types of Security Audits
+
+Overview of different audit types: Internal, External, Compliance, Technical, Network.
+
+## Security Auditing & Penetration Testing
+
+Comparison of audits vs. pentests, their relationship, and how they complement each other.
+
+## Approaches
+
+Discussion of Sequential and Combined testing strategies.
+
+### Sequential Approach
+
+Step-by-step process: audit first, then pentest; advantages and disadvantages.
+
+### Combined Approach
+
+Parallel integration of audit and pentest; advantages.
+
+## Example: SecurePayments Inc.
+
+Walkthrough of a fictitious company's use of the sequential approach.
+
+### Audit Phase Findings & Recommendations
+
+Key findings and suggested remediations from the audit.
+
+### Pentest Phase Findings & Recommendations
+
+Key findings and suggested remediations from the pentest.
+
+## Practitioner Tips
+
+Best practices for integrating audit and pentest efforts effectively.
+
+## Appendix
+
+Additional resources and templates.
+
+### Templates
+
+- Audit checklist
+- Pentest report template
+
+### Tools
+
+- List of recommended tools (e.g., Nmap, Burp Suite, Nessus)
+
+### Standards Reference
+
+- ISO 27001
+- NIST CSF
+- CIS Controls
+- PCI-DSS
+
+
 # Auditing-Fundamentals
 Understanding security auditing is crucial for penetration testers, as it provides the expertise needed to assess and strengthen an organization’s security posture. Security audits follow a structured approach to identifying vulnerabilities, ensuring compliance with regulatory standards, and implementing industry best practices.
 
