@@ -118,30 +118,77 @@ This document outlines the phases involved in conducting a thorough security aud
 
 
 
-Types of security Audits:
+# 🔍 Types of Security Audits
 
-Internal Audit:
-   Objective:
-   Importane 
-   Example:
-Extermnal Audit:
-   Objective:
-   Importane 
-   Example:
-Complince Audits:
-   Objective:
-   Importane 
-   Example:
-Tecnical Audits:
-   Objective:
-   Importane 
-   Example:
-Network Audits:
-   Objective:
-   Importane 
-   Example:
-Application Audits:
-   Objective:
-   Importane 
-   Example:
+Understanding the different types of security audits helps organizations select the right approach based on their needs and compliance obligations.
+
+---
+
+## 🏢 Internal Audit
+
+- **Objective:**  
+  Evaluate the organization's internal security policies, processes, and controls.
+
+- **Importance:**  
+  Enables early detection of security gaps and non-compliance before external review.
+
+- **Example:**  
+  Regular quarterly audits by the internal IT/security team to review access controls and incident response readiness.
+
+---
+
+## 🌐 External Audit
+
+- **Objective:**  
+  Provide an independent assessment of the organization's security posture.
+
+- **Importance:**  
+  Builds trust with stakeholders, customers, and regulators; often required for certifications.
+
+- **Example:**  
+  A third-party firm conducting an annual ISO 27001 audit or a penetration test.
+
+---
+
+## 📜 Compliance Audit
+
+- **Objective:**  
+  Verify adherence to regulatory or industry-specific standards (e.g., GDPR, HIPAA, PCI-DSS).
+
+- **Importance:**  
+  Avoid legal penalties, maintain certifications, and ensure data protection.
+
+- **Example:**  
+  An audit to confirm that personal data handling complies with GDPR requirements.
+
+---
+
+## 🛠️ Technical Audit
+
+- **Objective:**  
+  Assess the security of systems, applications, source code, and infrastructure.
+
+- **Importance:**  
+  Identifies technical vulnerabilities, misconfigurations, and insecure coding practices.
+
+- **Example:**  
+  Static code analysis or security review of infrastructure as code (IaC) configurations.
+
+---
+
+## 🌐 Network Audit
+
+- **Objective:**  
+  Examine the network infrastructure for vulnerabilities, configuration issues, and data flows.
+
+- **Importance:**  
+  Ensures proper segmentation, secure access, and detection of potential intrusions.
+
+- **Example:**  
+  Scanning for open ports, misconfigured firewalls, or unencrypted data transmissions.
+
+---
+
+> 📌 Tip: A strong security posture often includes a combination of these audits at regular intervals.
+
    
