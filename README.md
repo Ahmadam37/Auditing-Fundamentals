@@ -1,98 +1,28 @@
-# Auditing-Fundamentals Repository
+## 📚 Table of Contents
 
-## Table of Contents
+- [Understanding Security Auditing](#understanding-security-auditing)
+- [Essential Terminology](#essential-terminology)
+- [🔐 Security Auditing Process / Lifecycle](#-security-auditing-process--lifecycle)
+  - [1. 📝 Planning and Preparation](#1--planning-and-preparation)
+  - [2. 🔍 Information Gathering](#2--information-gathering)
+  - [3. ⚠️ Risk Assessment](#3--risk-assessment)
+  - [4. 🛠️ Audit Execution](#4--audit-execution)
+  - [5. 📊 Analysis and Evaluation](#5--analysis-and-evaluation)
+  - [6. 🧾 Reporting](#6--reporting)
+  - [7. ✅ Remediation](#7--remediation)
+- [🔍 Types of Security Audits](#-types-of-security-audits)
+  - [🏢 Internal Audit](#-internal-audit)
+  - [🌐 External Audit](#-external-audit)
+  - [📜 Compliance Audit](#-compliance-audit)
+  - [🛠️ Technical Audit](#-technical-audit)
+  - [🌐 Network Audit](#-network-audit)
+- [🛡️ Security Auditing & Penetration Testing](#️-security-auditing--penetration-testing)
+  - [Security Audit vs. Penetration Test](#security-audit-vs-penetration-test)
+  - [Relationship Between Audit and Pentest](#relationship-between-audit-and-pentest)
+- [🔄 Sequential vs. Combined Security Testing Approaches](#-sequential-vs-combined-security-testing-approaches)
+  - [🧭 Sequential Approach](#-sequential-approach)
+  - [Example: Sequential Approach – "SecurePayments Inc."](#example-sequential-approach--securepayments-inc)
 
-1. [Overview](#overview)
-2. [Essential Terminology](#essential-terminology)
-3. [Audit Fundamentals](#audit-fundamentals)
-   - [Security Auditing Process / Lifecycle](#security-auditing-process--lifecycle)
-4. [Types of Security Audits](#types-of-security-audits)
-5. [Security Auditing & Penetration Testing](#security-auditing--penetration-testing)
-6. [Approaches](#approaches)
-   - [Sequential Approach](#sequential-approach)
-   - [Combined Approach](#combined-approach)
-7. [Example: SecurePayments Inc.](#example-securepayments-inc)
-   - [Audit Phase Findings & Recommendations](#audit-phase-findings--recommendations)
-   - [Pentest Phase Findings & Recommendations](#pentest-phase-findings--recommendations)
-8. [Practitioner Tips](#practitioner-tips)
-9. [Appendix](#appendix)
-   - [Templates](#templates)
-   - [Tools](#tools)
-   - [Standards Reference](#standards-reference)
-
----
-
-## Overview
-
-Brief introduction to the Auditing-Fundamentals repository and its purpose.
-
-## Essential Terminology
-
-Key terms and definitions crucial for understanding security auditing and pentesting.
-
-## Audit Fundamentals
-
-High-level description of security audits and their goals.
-
-### Security Auditing Process / Lifecycle
-
-Detailed phases of the security audit lifecycle.
-
-## Types of Security Audits
-
-Overview of different audit types: Internal, External, Compliance, Technical, Network.
-
-## Security Auditing & Penetration Testing
-
-Comparison of audits vs. pentests, their relationship, and how they complement each other.
-
-## Approaches
-
-Discussion of Sequential and Combined testing strategies.
-
-### Sequential Approach
-
-Step-by-step process: audit first, then pentest; advantages and disadvantages.
-
-### Combined Approach
-
-Parallel integration of audit and pentest; advantages.
-
-## Example: SecurePayments Inc.
-
-Walkthrough of a fictitious company's use of the sequential approach.
-
-### Audit Phase Findings & Recommendations
-
-Key findings and suggested remediations from the audit.
-
-### Pentest Phase Findings & Recommendations
-
-Key findings and suggested remediations from the pentest.
-
-## Practitioner Tips
-
-Best practices for integrating audit and pentest efforts effectively.
-
-## Appendix
-
-Additional resources and templates.
-
-### Templates
-
-- Audit checklist
-- Pentest report template
-
-### Tools
-
-- List of recommended tools (e.g., Nmap, Burp Suite, Nessus)
-
-### Standards Reference
-
-- ISO 27001
-- NIST CSF
-- CIS Controls
-- PCI-DSS
 
 
 # Auditing-Fundamentals
